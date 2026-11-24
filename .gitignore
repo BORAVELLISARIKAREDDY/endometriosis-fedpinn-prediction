@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.pyc
+.streamlit/secrets.toml
+endometriosis_predictor.keras
+category_encoders.json
